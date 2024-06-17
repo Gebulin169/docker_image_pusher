@@ -1,5 +1,5 @@
 gdy666/lucky
 jeessy/ddns-go
-whyour/qinglong
+whyour/qinglong:debian
 ubuntu
 homeassistant/home-assistant
