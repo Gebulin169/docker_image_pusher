@@ -3,3 +3,4 @@ jeessy/ddns-go
 whyour/qinglong:debian
 ubuntu
 homeassistant/home-assistant
+whyour/qinglong:latest
